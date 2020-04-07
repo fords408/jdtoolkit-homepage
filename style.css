@@ -1,19 +1,31 @@
 body {
-	background-color: #fefefe;
+	background-color:  #fff0f5;
 	margin: 1em auto;
-	font-size: 10px;
+	font-size: 12px;
 	padding: 1em;
+	letter-spacing: 2px;
+	border-width: 30px;
 	text-align: center;
-	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-family: "Ariel Black", "Gadget", sans-serif;
+}
+
+topright {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 15px;
+	color:  #660022
+;
+
 }
 
 h1 {
-	color: #555;
+	color:   #660022;
 	font-size: 3em;
 }
 
 p {
-	color: #444;
+	color:  #4d0019;
 	max-width: 30em;
 	width: 100%;
 	text-align: left;
@@ -22,7 +34,47 @@ p {
 	line-height: 1.3;
 }
 
-img.logo {
+img.photo {
+	width: 100%;
+	height: auto;
+	max-width: 40em;
+	max-height: 40em;
+	margin: 2em auto;
+}
+
+img.photo {
+	width: 100%;
+	height: auto;
+	max-width: 40em;
+	max-height: 40em;
+	margin: 2em auto;
+}
+
+img.photo {
+	width: 100%;
+	height: auto;
+	max-width: 40em;
+	max-height: 40em;
+	margin: 2em auto;
+}
+
+img.photo {
+	width: 100%;
+	height: auto;
+	max-width: 40em;
+	max-height: 40em;
+	margin: 2em auto;
+}
+
+img.photo {
+	width: 100%;
+	height: auto;
+	max-width: 40em;
+	max-height: 40em;
+	margin: 2em auto;
+}
+
+img.photo {
 	width: 100%;
 	height: auto;
 	max-width: 40em;
